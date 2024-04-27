@@ -1,0 +1,7 @@
+﻿1. (1) mkdir HW2 (2) cp HW1/* HW2/
+2. They may be able to be solved with DFS. However, it might be tough to guarantee you’ve found the shortest path/distance if you’re using DFS rather than BFS, and BFS is more suited to efficiently solve these questions. 
+3. Yes, BFS should also work. 
+4. I think it would be hard to solve this without BFS or DFS, as you need a way to search through the graph in order to find the mutual friends–a brute force approach seems too computationally expensive. 
+5. O (n+m)
+6. O (n+m)
+7. 25 hours
